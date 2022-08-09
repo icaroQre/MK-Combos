@@ -4,7 +4,7 @@ body{
 
 @font-face {
     font-family: "MK";
-    src: url("/assets/fonts/Mortal-Kombat-MK11.otf") format('opentype');
+    src: url("../assets/fonts/Mortal-Kombat-MK11.otf") format('opentype');
     font-weight: normal;
     font-style: normal;
 }

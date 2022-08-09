@@ -1,14 +1,8 @@
 # MK Combos
 
-##
-
 ## Oque é:
 
-##
-
 #### O MK Combos é um projeto desenvolvido para o conteúdo de Linguagens Regulares da matéria de Teoria da Computação, utilizando ReGex em JavaScript, CSS e HTML5.
-
-##
 
 #### Mostra de forma simples o funcionamento de expressões regulares e autômatos finitos usando RegEx.
 

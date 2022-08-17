@@ -16,7 +16,10 @@
 - 1234
 - 864
 
-#### Para descobrir o resultado, é só testar. 😄 ⚡
+#### Exemplo:
+
+- Se a entrada fornecida for 7681, ela será verificada por uma ReGex. O resultado do teste vai ser verdadeiro, logo, será executado o vídeo da palavra aceita.
+- Se a entrada for uma palavra não cadastrada, nenhum teste será verdadeiro, então será exibida uma mensagem de erro.
 
 ##
 

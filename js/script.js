@@ -13,25 +13,25 @@ GAME_IN_BTN.addEventListener('click', function(){
 
     if(RE_COMBO_1.test(COMBO) == true){
         console.log("Chain React");
-        VIDEO.src = "../assets/videos/Chain React.mp4";
+        VIDEO.src = "./assets/videos/Chain React.mp4";
         VIDEO.play();
         VIDEO.loop = true;
 
     }else if(RE_COMBO_2.test(COMBO) == true){
         console.log("Victory Pose");
-        VIDEO.src = "../assets/videos/Hellfire Kata.mp4";
+        VIDEO.src = "./assets/videos/Hellfire Kata.mp4";
         VIDEO.play();
         VIDEO.loop = true;
 
     }else if(RE_COMBO_3.test(COMBO) == true){
         console.log("Get Over Here!");
-        VIDEO.src = "../assets/videos/Get Over Here.mp4";
+        VIDEO.src = "./assets/videos/Get Over Here.mp4";
         VIDEO.play();
         VIDEO.loop = true;
 
     }else{
         console.log("Not Exist");
-        VIDEO.src = "../assets/videos/gallo.mp4";
+        VIDEO.src = "./assets/videos/gallo.mp4";
         VIDEO.play();
         VIDEO.loop = true;
     }
